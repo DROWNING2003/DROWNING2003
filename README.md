@@ -21,9 +21,6 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [qbox/sandbox](https://github.com/qbox/sandbox) (18 merged PRs)
-- [qbox/las](https://github.com/qbox/las) (1 merged PR)
-- [qbox/envd](https://github.com/qbox/envd) (1 merged PR)
 - [qiniu/qshell](https://github.com/qiniu/qshell) (1 merged PR)
 - [qiniu/go-sdk](https://github.com/qiniu/go-sdk) (1 merged PR)
 - [qiniu/python-sdk](https://github.com/qiniu/python-sdk) (1 merged PR)
