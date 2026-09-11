@@ -21,10 +21,10 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [qiniu/go-sdk](https://github.com/qiniu/go-sdk) (2 merged PRs)
+- [qiniu/python-sdk](https://github.com/qiniu/python-sdk) (2 merged PRs)
 - [qiniu/api-specs](https://github.com/qiniu/api-specs) (2 merged PRs)
 - [qiniu/qshell](https://github.com/qiniu/qshell) (1 merged PR)
-- [qiniu/go-sdk](https://github.com/qiniu/go-sdk) (1 merged PR)
-- [qiniu/python-sdk](https://github.com/qiniu/python-sdk) (1 merged PR)
 - [qiniu/nodejs-sdk](https://github.com/qiniu/nodejs-sdk) (1 merged PR)
 - [pi-go](https://github.com/DROWNING2003/pi-go) (100+ commits)
 <!-- ACTIVITY_END -->
@@ -32,5 +32,5 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-10 04:45 UTC_
+_Last updated: 2026-09-11 04:43 UTC_
 <!-- UPDATED_END --></sub>
