@@ -27,11 +27,10 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 - [qiniu/python-sdk](https://github.com/qiniu/python-sdk) (2 merged PRs)
 - [qiniu/api-specs](https://github.com/qiniu/api-specs) (2 merged PRs)
 - [qiniu/nodejs-sdk](https://github.com/qiniu/nodejs-sdk) (1 merged PR)
-- [pi-go](https://github.com/DROWNING2003/pi-go) (24 commits)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-09-22 04:59 UTC_
+_Last updated: 2026-09-23 04:47 UTC_
 <!-- UPDATED_END --></sub>
