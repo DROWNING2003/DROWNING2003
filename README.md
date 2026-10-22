@@ -21,6 +21,7 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [qiniu/deployment](https://github.com/qiniu/deployment) (1 merged PR)
 - [go-fileserver-demo](https://github.com/DROWNING2003/go-fileserver-demo) (1 commits)
 - [qiniu/qshell](https://github.com/qiniu/qshell) (1 merged PR)
 - [qiniu/go-sdk](https://github.com/qiniu/go-sdk) (2 merged PRs)
@@ -31,5 +32,5 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-10-21 04:51 UTC_
+_Last updated: 2026-10-22 04:50 UTC_
 <!-- UPDATED_END --></sub>
