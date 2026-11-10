@@ -22,16 +22,15 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 
 <!-- ACTIVITY_START -->
 - [qiniu/qshell](https://github.com/qiniu/qshell) (3 merged PRs)
-- [qiniu/go-sdk](https://github.com/qiniu/go-sdk) (3 merged PRs)
+- [qiniu/go-sdk](https://github.com/qiniu/go-sdk) (2 merged PRs)
 - [Isodo](https://github.com/DROWNING2003/Isodo) (100+ commits)
 - [qiniu/api-specs](https://github.com/qiniu/api-specs) (1 merged PR)
 - [qiniu/deployment](https://github.com/qiniu/deployment) (1 merged PR)
 - [go-fileserver-demo](https://github.com/DROWNING2003/go-fileserver-demo) (1 commits)
-- [qiniu/python-sdk](https://github.com/qiniu/python-sdk) (1 merged PR)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-11-09 06:35 UTC_
+_Last updated: 2026-11-10 07:21 UTC_
 <!-- UPDATED_END --></sub>
