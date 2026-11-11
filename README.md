@@ -21,8 +21,8 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [qiniu/qshell](https://github.com/qiniu/qshell) (3 merged PRs)
-- [qiniu/go-sdk](https://github.com/qiniu/go-sdk) (2 merged PRs)
+- [qiniu/qshell](https://github.com/qiniu/qshell) (2 merged PRs)
+- [qiniu/go-sdk](https://github.com/qiniu/go-sdk) (1 merged PR)
 - [Isodo](https://github.com/DROWNING2003/Isodo) (100+ commits)
 - [qiniu/api-specs](https://github.com/qiniu/api-specs) (1 merged PR)
 - [qiniu/deployment](https://github.com/qiniu/deployment) (1 merged PR)
@@ -32,5 +32,5 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-11-10 07:21 UTC_
+_Last updated: 2026-11-11 06:26 UTC_
 <!-- UPDATED_END --></sub>
