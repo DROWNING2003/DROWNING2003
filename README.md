@@ -21,7 +21,7 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
-- [ankerctl](https://github.com/DROWNING2003/ankerctl) (3 commits)
+- [ankerctl](https://github.com/DROWNING2003/ankerctl) (10 commits, [v0.6.0](https://github.com/DROWNING2003/ankerctl/releases/tag/v0.6.0))
 - [qiniu/nodejs-sdk](https://github.com/qiniu/nodejs-sdk) (1 merged PR)
 - [qiniu/qshell](https://github.com/qiniu/qshell) (2 merged PRs)
 - [qiniu/go-sdk](https://github.com/qiniu/go-sdk) (1 merged PR)
@@ -34,5 +34,5 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-11-12 07:13 UTC_
+_Last updated: 2026-11-13 06:48 UTC_
 <!-- UPDATED_END --></sub>
