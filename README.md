@@ -28,11 +28,10 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 - [Isodo](https://github.com/DROWNING2003/Isodo) (100+ commits)
 - [qiniu/api-specs](https://github.com/qiniu/api-specs) (1 merged PR)
 - [qiniu/deployment](https://github.com/qiniu/deployment) (1 merged PR)
-- [go-fileserver-demo](https://github.com/DROWNING2003/go-fileserver-demo) (1 commits)
 <!-- ACTIVITY_END -->
 
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-11-13 06:48 UTC_
+_Last updated: 2026-11-14 06:27 UTC_
 <!-- UPDATED_END --></sub>
