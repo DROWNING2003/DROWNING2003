@@ -21,10 +21,11 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [qiniu/go-sdk](https://github.com/qiniu/go-sdk) (2 merged PRs)
+- [qiniu/qshell](https://github.com/qiniu/qshell) (3 merged PRs)
+- [qiniu/nodejs-sdk](https://github.com/qiniu/nodejs-sdk) (2 merged PRs)
+- [qiniu/python-sdk](https://github.com/qiniu/python-sdk) (1 merged PR)
 - [ankerctl](https://github.com/DROWNING2003/ankerctl) (10 commits, [v0.6.0](https://github.com/DROWNING2003/ankerctl/releases/tag/v0.6.0))
-- [qiniu/nodejs-sdk](https://github.com/qiniu/nodejs-sdk) (1 merged PR)
-- [qiniu/qshell](https://github.com/qiniu/qshell) (2 merged PRs)
-- [qiniu/go-sdk](https://github.com/qiniu/go-sdk) (1 merged PR)
 - [Isodo](https://github.com/DROWNING2003/Isodo) (100+ commits)
 - [qiniu/api-specs](https://github.com/qiniu/api-specs) (1 merged PR)
 - [qiniu/deployment](https://github.com/qiniu/deployment) (1 merged PR)
@@ -33,5 +34,5 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-11-18 07:31 UTC_
+_Last updated: 2026-11-19 07:28 UTC_
 <!-- UPDATED_END --></sub>
