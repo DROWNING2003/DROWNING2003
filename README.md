@@ -21,6 +21,7 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 #### Recent Activity (Last 2 Months)
 
 <!-- ACTIVITY_START -->
+- [qiniu/skills](https://github.com/qiniu/skills) (1 merged PR)
 - [qiniu/go-sdk](https://github.com/qiniu/go-sdk) (2 merged PRs)
 - [qiniu/qshell](https://github.com/qiniu/qshell) (3 merged PRs)
 - [qiniu/nodejs-sdk](https://github.com/qiniu/nodejs-sdk) (2 merged PRs)
@@ -34,5 +35,5 @@ A developer exploring **AI agents**, **developer tools**, and **cloud infrastruc
 ---
 
 <sub><!-- UPDATED_START -->
-_Last updated: 2026-11-19 07:28 UTC_
+_Last updated: 2026-11-20 07:19 UTC_
 <!-- UPDATED_END --></sub>
